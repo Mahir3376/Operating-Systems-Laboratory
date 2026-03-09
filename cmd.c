@@ -1,7 +1,4 @@
-// Name: P.Mahir
-// Roll No: 22CSB0C27
-
-// Question 2 Command Interpreter
+// Basic Command Interpreter
 
 #include <stdio.h>
 #include <stdlib.h>

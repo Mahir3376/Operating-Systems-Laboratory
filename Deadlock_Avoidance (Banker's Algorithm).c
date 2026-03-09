@@ -1,6 +1,3 @@
-// Name: P.Mahir
-// Roll No.: 22CSB0C27
-
 // Deadlock Avoidance using Banker's Algorithm
 
 #include <stdio.h>

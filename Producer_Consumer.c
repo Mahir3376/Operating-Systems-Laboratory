@@ -1,6 +1,3 @@
-// Name: P.Mahir
-// Roll No.: 22CSB0C27
-
 // Solution to Producer-Consumer Problem
 
 #include <stdio.h>

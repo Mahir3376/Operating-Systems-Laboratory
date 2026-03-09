@@ -1,6 +1,3 @@
-// Name: P.Mahir
-// Roll No.: 22CSB0C27
-
 // LRU-Approximation Page Replacement Algorithm (Second Chance Algorithm)
 
 #include <stdio.h>

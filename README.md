@@ -64,7 +64,7 @@ gcc Producer_Consumer.c -o producer_consumer
 - Compare page replacement results with different reference strings.
 - Inject edge cases; like deadlocks with all resources taken.
 - Extend `cmd.c` into a mini shell by wiring more commands into it.
-
+- These are intended to be used in Native Ubuntu environment
 ---
 
 ## License & Contribution

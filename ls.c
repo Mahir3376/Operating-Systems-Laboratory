@@ -1,6 +1,3 @@
-// Name: P.Mahir
-// Roll No: 22CSB0C27
-
 // Implementation of ls command
 
 #include <stdio.h>

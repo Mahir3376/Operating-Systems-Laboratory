@@ -1,6 +1,3 @@
-// Name: P.Mahir
-// Roll No.: 22CSB0C27
-
 // LRU Page Replacement Algorithm
 
 #include <stdio.h>
